@@ -1,7 +1,3 @@
-console.log('Hii');
-console.log(window.location);
-
-
 const inputLocation=document.querySelector('input')
 const wetherForm = document.querySelector('form');
 
